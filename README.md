@@ -38,7 +38,17 @@ These programs are useful for beginners preparing for coding interviews and logi
      Input: 5
      Output: 120
      ```
+     
+5. **Palindrome Number**
+   - Checks whether a given number is a palindrome (reads the same backward as forward).
+   - Example:
+     ```
+     Input: 121
+     Output: 121 is a Palindrome.
 
+     Input: 123
+     Output: 123 is NOT a Palindrome.
+     
 ---
 
 ## ▶️ How to Run
