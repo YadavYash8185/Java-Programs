@@ -48,6 +48,11 @@ These programs are useful for beginners preparing for coding interviews and logi
 
      Input: 123
      Output: 123 is NOT a Palindrome.
+6.**Pattern Printing**
+   - Star hollow Square Pattern.
+   - 
+
+     
      
 ---
 
