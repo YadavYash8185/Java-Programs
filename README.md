@@ -50,7 +50,21 @@ These programs are useful for beginners preparing for coding interviews and logi
      Output: 123 is NOT a Palindrome.
 6.**Pattern Printing**
    - Star hollow Square Pattern.
-   - 
+
+
+
+7. **StarPattern.java**  
+   Prints a pyramid star pattern based on the number of rows.  
+   Example Output (rows = 5):  
+
+   *
+  ***
+ *****
+*******
+
+8.
+
+    
 
      
      
