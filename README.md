@@ -62,12 +62,14 @@ These programs are useful for beginners preparing for coding interviews and logi
  *****
 *******
 
-8.
+8. **PalindromeChecker.java**  
+Checks whether a given string is a palindrome (reads the same backward and forward).  
+- Ignores spaces  
+- Case-insensitive  
 
-    
-
-     
-     
+Example:
+Enter a string: level
+level is a Palindrome.
 ---
 
 ## ▶️ How to Run
