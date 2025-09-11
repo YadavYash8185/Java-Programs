@@ -60,9 +60,9 @@ These programs are useful for beginners preparing for coding interviews and logi
    *
   ***
  *****
-*******
+******* 
 
-8. **PalindromeChecker.java**  
+9. **PalindromeChecker.java**  
 Checks whether a given string is a palindrome (reads the same backward and forward).  
 - Ignores spaces  
 - Case-insensitive  
