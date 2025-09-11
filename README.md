@@ -70,6 +70,11 @@ Checks whether a given string is a palindrome (reads the same backward and forwa
 Example:
 Enter a string: level
 level is a Palindrome.
+
+
+10.Factorial Calculator
+- Calculates factorial of a number using **recursive** and **iterative** methods.  
+- Demonstrates basic loops and recursion in Java.
 ---
 
 ## ▶️ How to Run
