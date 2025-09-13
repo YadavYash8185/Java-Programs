@@ -85,7 +85,8 @@ Output:
       * * * * 
       * * * * * 
 
-
+12. Simple Calulator
+    A Basic but working calculator on java.
 
 ---
 
