@@ -75,6 +75,18 @@ level is a Palindrome.
 10.Factorial Calculator
 - Calculates factorial of a number using **recursive** and **iterative** methods.  
 - Demonstrates basic loops and recursion in Java.
+
+11.Star Pattern Triangle
+   A Program of java star pattern
+Output: 
+      * 
+      * * 
+      * * * 
+      * * * * 
+      * * * * * 
+
+
+
 ---
 
 ## ▶️ How to Run
